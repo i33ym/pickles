@@ -148,7 +148,7 @@ include_content = true
 # author value will be available using {{ config.extra.author }} in templates
 #
 [extra]
-subtitle = "Modern Education Inlined with Traditional Values and Wisdom"
+subtitle = "[modern education inlined with traditional values and wisdom]"
 copyright = "Copyright <i class=\"fas fa-heart\" style=\"color: red;\"></i> Taswiya 2024"
 analytics = ""
 katex_enable = true
